@@ -6,5 +6,5 @@ Strona używana w 2025-2026
 ## Technologie
 * HTML / CSS / JavaScript
 
-## Prawa autorskie
+### Prawa autorskie
 Kod udostępniony w celach archiwalnych.
